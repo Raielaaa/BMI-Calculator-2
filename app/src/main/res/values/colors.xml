@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Main.color">#1a1624</color>
+    <color name="Main.color.secondary">#252034</color>
+    <color name="Main.btn.color">#a307dc</color>
+    <color name="Main.text">#706f77</color>
+    <color name="Main.input.color">#F6F2F2</color>
+
+    //  Weight color classification
+    <color name="underweight">#FF9800</color>
+    <color name="healthy">#55BC59</color>
+    <color name="overweight">#FF5722</color>
+    <color name="obese">#F44336</color>
+</resources>
